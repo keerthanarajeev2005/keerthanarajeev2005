@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Keerthana<br><br>🎓 B.Tech Computer Science Student  <br>💻 Interested in Software Development, Cloud & AI<br><br>## 🛠️ Skills<br><br>- Java<br>- Python<br>- JavaScript<br>- React.js<br>- Node.js<br>- MongoDB<br>- SQL<br><br>## 🚀 Featured Projects<br><br>- 🛒 Fresh Cart – Online Shopping System<br>- 🚗 Smart Parking System<br>- 📋 Attendance Management System<br>- 🖼️ Image Processing / Editing App<br><br>## 📚 Currently Learning<br><br>- ☁️ AWS Cloud<br>- 💻 Data Structures & Algorithms<br>- 🌐 Full Stack Development<br><br>## 📫 Connect With Me<br><br>- 🔗 LinkedIn<br>- 🐙 GitHub
+# 👋 Hi, I'm Keerthana R<br><br>🎓 B.Tech Computer Science Student  <br>💻 Interested in Software Development, Cloud & AI<br><br>## 🛠️ Skills<br><br>- Java<br>- Python<br>- JavaScript<br>- React.js<br>- Node.js<br>- MongoDB<br>- SQL<br><br>## 🚀 Featured Projects<br><br>- 🛒 Fresh Cart – Online Shopping System<br>- 🚗 Smart Parking System<br>- 📋 Attendance Management System<br>- 🖼️ Image Processing / Editing App<br><br>## 📚 Currently Learning<br><br>- ☁️ AWS Cloud<br>- 💻 Data Structures & Algorithms<br>- 🌐 Full Stack Development<br><br>## 📫 Connect With Me<br><br>- 🔗 LinkedIn<br>- 🐙 GitHub
 
 
 # 💻 Tech Stack:
